@@ -8,16 +8,18 @@ The data is from kaggle.https://www.kaggle.com/wendykan/lending-club-loan-data
 The steps are as below.
 
 1. figure out the data relationship
+
     loan.drawio
+    
     loan.pdf
 
-2. create a database
-  2.1 data cleaning
-      01-import.rmd
-  2.2 import csv into mysql
-      import.sql
-  2.3  create tables
-      populate_tbl.sql
+2. create a database\n
+  2.1 data cleaning\n
+      01-import.rmd\n
+  2.2 import csv into mysql\n
+      import.sql\n
+  2.3  create tables\n
+      populate_tbl.sql\n
 
 
 3. connect mysql to the browser
