@@ -8,6 +8,8 @@ The data is from kaggle.https://www.kaggle.com/wendykan/lending-club-loan-data
 The steps are as below.
 
 1. figure out the data relationship
+    data description
+    https://docs.google.com/document/d/14nXOyID0vNXWccLMPT_-KWmLSYGc8JPNnLZsnXQpypU/edit
 
     loan.drawio
     
